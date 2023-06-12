@@ -1,0 +1,5 @@
+The dataset has Na values
+The dataset has no duplicates in it
+
+
+since y(target) is binary therefore classification problem

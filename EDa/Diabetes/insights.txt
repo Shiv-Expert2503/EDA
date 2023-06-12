@@ -1,0 +1,4 @@
+No NAN
+YEs there are some(3k+) duplicates
+Some ages are less than 1 therfore OUTLIERS
+Doing encoding in smoking_history

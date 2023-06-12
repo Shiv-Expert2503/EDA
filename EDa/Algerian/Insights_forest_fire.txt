@@ -1,0 +1,14 @@
+    NAN
+The dataset has NA values in almost every column
+
+    Duplicates
+No duplicate values present
+
+    About the dataset
+All columns are object type . But all columns on first view has integeral and floating values
+Except Classes column
+So that means that we have to look for each and every column
+
+    Problems
+The name of the columns has space in it
+Classes column also has spaces in between of it
